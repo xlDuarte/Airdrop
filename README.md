@@ -1,17 +1,16 @@
 <div align="center">
   
 ## AirDrop & Token
+
+</div>
+  
+## AirDrop
   
 </div>
-
 <div align="center">
-  <img alt="criptodev" src="./images/criptodev.jpg" />
+  <img alt="airdrop" src="./airdrop.jpg"/>
 </div>
-
 <br/>
-
-
-## AirDrop
 
 <b>Status:</b> ACTIVE, PAUSED, CANCELLED.
 <br>
@@ -33,6 +32,12 @@
 
 ## Token
 
+</div>
+<div align="center">
+  <img alt="token" src="./token.jpg"/>
+</div>
+<br/>
+
 <b>Construtor:</b> totalsupply; addressToBalance.
 <br>
 <b>Propriedades:</b> name; symbol; decimals.
@@ -41,3 +46,5 @@
   - totalSupply
   - balanceOf
   - transfer
+
+<hr>
