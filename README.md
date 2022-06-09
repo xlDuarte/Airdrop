@@ -1,13 +1,15 @@
-## Smartcontract
+<div align="center">
+  
+## AirDrop & Token
+  
+</div>
 
-<b>Construtor:</b> totalsupply; addressToBalance.
-<br>
-<b>Propriedades:</b> name; symbol; decimals.
-<br>
-<b>Funções:</b>
-  - totalSupply
-  - balanceOf
-  - transfer
+<div align="center">
+  <img alt="criptodev" src="./images/criptodev.jpg" />
+</div>
+
+<br/>
+
 
 ## AirDrop
 
@@ -28,3 +30,14 @@
 - State
 - Privada (Já subscrito.)
 - Kill
+
+## Token
+
+<b>Construtor:</b> totalsupply; addressToBalance.
+<br>
+<b>Propriedades:</b> name; symbol; decimals.
+<br>
+<b>Funções:</b>
+  - totalSupply
+  - balanceOf
+  - transfer
